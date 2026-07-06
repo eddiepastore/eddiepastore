@@ -1,6 +1,19 @@
-# Eddie Pastore — Finance & Operations Executive Building AI-Native Decision Systems
+# Eddie Pastore
 
-> I build AI-assisted finance, operations, and healthcare tools that turn complex business problems into usable decision systems — from healthcare pricing intelligence to governed FP&A workflows and internal automation.
+### CFO / COO — I build governed AI systems for the finance function
+
+![CFO / COO](https://img.shields.io/badge/CFO%20%2F%20COO-0A3D62?style=flat-square) ![FP&A × AI](https://img.shields.io/badge/FP%26A%20%C3%97%20AI-146C43?style=flat-square) ![Decision Intelligence](https://img.shields.io/badge/Decision%20Intelligence-5A32A3?style=flat-square)
+
+FP&A copilots that draft the monthly close under human approval. Privacy gateways that let CFOs use frontier LLMs without exposing real financials. Decision platforms that turn messy, regulated data into board-ready answers.
+
+**⭐ Featured — public source code (MIT):**
+
+- 📊 [**FP&A Variance & Re-Forecast Copilot**](https://github.com/eddiepastore/fpa-variance-copilot) — the monthly close as a governed AI workflow: variance detection → AI commentary → human approval → reforecast → board package, with a full audit trail
+- 🔐 [**Finance Privacy Gateway**](https://github.com/eddiepastore/finance-privacy-gateway) — frontier-LLM financial analysis where the model never sees a real dollar figure or customer name
+
+**Open to CFO, VP Finance, Head of Strategic Finance, and AI-transformation leadership roles** · [LinkedIn](https://www.linkedin.com/in/eddiepastore)
+
+---
 
 I'm a senior finance and operations executive who uses AI-assisted development workflows to build real software: data products, decision-support systems, and consumer apps. I'm not a research scientist — I'm an executive operator who knows how to use AI to build working tools, automate workflows, and turn messy business problems into shipped products.
 
@@ -12,19 +25,19 @@ The projects below were built end-to-end in my AI Product Lab. Together they dem
 
 Twenty-plus years leading finance and operations. Currently Co-Founder / CFO / COO of a national payroll and benefits platform — ~$60M in annual payroll across 45+ states, primary financial partner to two boards of directors, $11.6M raised across pre-seed and seed rounds. Previously VP of Finance & Strategy at a national talent firm, and Finance & Strategy at Inspirato, where I ran budgeting, forecasting, and performance management for a $100M+ international operating plan and contributed to a $70M capital raise.
 
-This portfolio exists because the next decade of finance leadership requires more than knowing *about* AI. It requires knowing how to put AI **into** a finance department — without losing the controls, auditability, and board-grade rigor the function is built on. Every project below is that thesis made concrete: FP&A discipline, healthcare finance analysis, privacy-aware AI governance, and the ability to turn ambiguous operating problems into working software.
+This portfolio exists because the next decade of finance leadership requires more than knowing *about* AI. It requires knowing how to put AI **into** a finance department — without losing the controls, auditability, and board-grade rigor the function is built on. Every project below is that thesis made concrete: FP&A discipline, privacy-aware AI governance, complex-data decision platforms, and the ability to turn ambiguous operating problems into working software.
 
 ## Executive Finance & AI Decision Systems
 
-These projects are the core executive story: finance, healthcare, governance, data quality, auditability, and board-ready decision support translated into working systems.
+These projects are the core executive story: finance, governance, data quality, auditability, and board-ready decision support translated into working systems.
 
 ### 🏥 [Hospital Pricing Intelligence Platform](case-studies/hospital-pricing-intelligence.md)
 
-A full-stack healthcare price-transparency intelligence platform that transforms raw CMS hospital machine-readable-file data into an interactive decision platform for self-funded employer health-plan strategy.
+The same playbook as the finance apps — governed data, benchmarking, decision support — pointed at one of the messiest regulated datasets in the U.S. economy: a full-stack platform that transforms raw CMS hospital machine-readable-file data into an interactive decision tool for self-funded employer health-plan strategy.
 
 - **346** approved hospitals live (501 tracked), **58** procedure families, **17,457** CPT-level savings opportunities
 - Interactive Next.js app: US map with real lat/long positioning, procedure-family comparison matrix, CPT savings leaderboard, and a data-governance workflow that keeps unverified evidence out of public proof views
-- **Proves:** regulatory data extraction, healthcare finance fluency, data-quality governance, and productized decision support
+- **Proves:** the playbook transfers — regulatory-scale data extraction, data-quality governance, and productized decision support in a domain learned from scratch
 
 ![Hospital Pricing Dashboard — US Map of 346 approved hospitals](assets/hospital-pricing-us-map.png)
 
@@ -157,4 +170,4 @@ Most AI-native builders lack operating judgment. Most senior executives lack pra
 - 📧 eddie.lab.ai [at] gmail [dot] com
 - 🗂 Full case studies: [`case-studies/`](case-studies/)
 
-*The FP&A Copilot and Finance Privacy Gateway repositories are **public** (MIT-licensed, synthetic data only) — read the code. The remaining projects are kept in private repositories by design (the healthcare platform touches regulated pricing data; the family apps hold real family data); demos, walkthroughs, and code samples for those are available on request.*
+*The FP&A Copilot and Finance Privacy Gateway are public (MIT, synthetic data only). The remaining projects are kept in private repositories by design — regulated pricing data and real family data — with demos, walkthroughs, and code samples available on request.*
