@@ -8,9 +8,11 @@ The projects below were built end-to-end in my AI Product Lab. Together they dem
 
 ---
 
-## Executive Relevance
+## The Executive Behind the Code
 
-This portfolio demonstrates CFO-level judgment applied through AI-native systems: FP&A discipline, healthcare finance analysis, privacy-aware AI governance, product execution, and the ability to turn ambiguous operating problems into usable software.
+Twenty-plus years leading finance and operations. Currently Co-Founder / CFO / COO of a national payroll and benefits platform — ~$60M in annual payroll across 45+ states, primary financial partner to two boards of directors, $11.6M raised across pre-seed and seed rounds. Previously VP of Finance & Strategy at a national talent firm, and Finance & Strategy at Inspirato, where I ran budgeting, forecasting, and performance management for a $100M+ international operating plan and contributed to a $70M capital raise.
+
+This portfolio exists because the next decade of finance leadership requires more than knowing *about* AI. It requires knowing how to put AI **into** a finance department — without losing the controls, auditability, and board-grade rigor the function is built on. Every project below is that thesis made concrete: FP&A discipline, healthcare finance analysis, privacy-aware AI governance, and the ability to turn ambiguous operating problems into working software.
 
 ## Executive Finance & AI Decision Systems
 
@@ -124,7 +126,7 @@ A shared family workout app where everyone trains in the same session on one scr
 
 ## How These Were Built
 
-Each project was built using **AI-assisted development workflows**: I direct the product vision, architecture, domain logic, quality bar, and release decisions; AI coding tools accelerate implementation, debugging, test generation, and iteration.
+Each project was built using **AI-assisted development workflows**: I direct the product vision, architecture, domain logic, quality bar, and release decisions; AI coding tools accelerate implementation, debugging, test generation, and iteration. The toolchain spans multiple platforms — Claude for structured reasoning, review, and implementation; local models via Ollama for private, always-on execution; and a reusable skills/runbook layer that lets agents work under defined guardrails — because integrating AI into an organization means orchestrating systems, not prompting a chatbot.
 
 | | I directed | AI assisted with |
 |---|---|---|
@@ -133,14 +135,24 @@ Each project was built using **AI-assisted development workflows**: I direct the
 | **Domain logic** | Healthcare finance rules, benchmark policy, game design | Translating rules into working code |
 | **Quality** | QA, validation, regression guardrail strategy | Automated test and guardrail scripts |
 
-## Why It Matters
+## What This Means for Your Finance Organization
 
-Most AI-native builders lack operating judgment. Most senior executives lack practical AI fluency. My work sits in the overlap: executive judgment, financial and operational strategy, systems thinking, product direction, and hands-on AI-assisted development.
+If you're hiring a finance leader who can bring AI into the department, this portfolio is the working preview:
+
+- **A faster close with the same accountability.** The FP&A Copilot is a working model of a monthly close where AI drafts variance commentary and reforecast proposals under a materiality rulebook — and nothing reaches the board package without human sign-off and full source traceability.
+- **AI adoption without data exposure.** The Privacy Gateway is a working answer to the first objection every CFO raises about LLMs: *our numbers can't leave the building.* Local math, obfuscated packets, permission-aware disclosure.
+- **Governance as a design principle, not an afterthought.** Approval gates, audit trails, materiality tiers, and release-blocking privacy tests run through every build — the same instincts that come from two decades of owning controls, audits, and board reporting.
+- **Earned build-vs-buy judgment.** I evaluate AI tooling as someone who has shipped with it — data models, pipelines, failure modes — not from vendor decks.
+
+Most AI-native builders lack operating judgment. Most senior executives lack practical AI fluency. My work sits in the overlap.
 
 ---
 
 ## Contact
 
+**Open to senior finance leadership roles — CFO, VP Finance, Head of Strategic Finance — where AI integration is on the roadmap.**
+
+- 💼 LinkedIn: [linkedin.com/in/eddiepastore](https://www.linkedin.com/in/eddiepastore)
 - 📧 eddie.lab.ai [at] gmail [dot] com
 - 🗂 Full case studies: [`case-studies/`](case-studies/)
 
