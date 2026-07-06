@@ -115,6 +115,7 @@ A playable Godot browser platformer built through iterative AI-assisted developm
 
 A shared family workout app where everyone trains in the same session on one screen — independent set and rest timers per athlete, live personal-record detection with "🔥 PR!" celebrations, AI-generated cinematic intro/outro videos, and per-athlete stats, badges, and milestones.
 
+- **▶️ Try it now:** [pastore-pump.vercel.app](https://pastore-pump.vercel.app/)
 - React + TypeScript + Vite, Vercel serverless API, Turso/Drizzle data layer, installable PWA
 - **Proves:** consumer UX polish, concurrent-timer state management, and AI-generated media shipped as product content
 
