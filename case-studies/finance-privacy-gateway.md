@@ -69,7 +69,7 @@ Upload CSVs → Local finance engine (all math, Decimal precision)
 
 **Zero dependencies** — Pure Python 3.10+ standard library. No pip installs. Docker support included.
 
-**71 passing tests** — Including a release-blocking privacy regression test that proves the leak scanner and runtime gate cannot drift apart.
+**72 passing tests** — Including a release-blocking privacy regression test that proves the leak scanner and runtime gate cannot drift apart.
 
 ---
 
@@ -80,7 +80,7 @@ Upload CSVs → Local finance engine (all math, Decimal precision)
 - SQLite persistence with a Postgres-ready schema and ORM layer
 - Unified server: dashboard UI + REST API + SQLite on one process
 - Docker support via Makefile
-- 71 tests including `test_privacy_regression.py` (release-blocking)
+- 72 tests including `test_privacy_regression.py` (release-blocking)
 
 ---
 
@@ -104,4 +104,4 @@ Upload CSVs → Local finance engine (all math, Decimal precision)
 
 ---
 
-*Source repository is private. Demo, walkthrough, and code samples available on request.*
+*Source code is public under the MIT license: [github.com/eddiepastore/finance-privacy-gateway](https://github.com/eddiepastore/finance-privacy-gateway). All data is synthetic. Demo and walkthrough available on request.*

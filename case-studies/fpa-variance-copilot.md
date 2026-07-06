@@ -93,4 +93,4 @@ This project demonstrates the combination an executive recruiter should care abo
 
 ---
 
-*Source repository is private. Demo, walkthrough, and code samples available on request.*
+*Source code is public under the MIT license: [github.com/eddiepastore/fpa-variance-copilot](https://github.com/eddiepastore/fpa-variance-copilot). All data is synthetic. Demo and walkthrough available on request.*

@@ -41,6 +41,7 @@ The app takes budget, actuals, forecast, KPI, and driver data through the monthl
 - Re-forecast workbench with method labels (trend extension, driver-adjusted, management override, prior-period anchor) and rationale tracking
 - Privacy Mode: financial data obfuscated before any external AI call via the companion Finance Privacy Gateway
 - **Proves:** executive FP&A judgment translated into working software — operating rhythm design, governed AI workflow architecture, human-in-the-loop enforcement, and board-ready financial storytelling
+- **💻 Source code (public, MIT):** [eddiepastore/fpa-variance-copilot](https://github.com/eddiepastore/fpa-variance-copilot)
 
 <p>
   <img src="assets/fpa-copilot-overview.png" alt="FP&A Copilot — Overview dashboard" width="49%" />
@@ -60,8 +61,9 @@ CFOs want frontier LLMs for variance analysis, forecast pressure-testing, and bo
 - **Privacy guarantee enforced, not promised** — the packet risk gate and the privacy regression tests share the same leak-scanner code; runtime and testing cannot drift apart
 - Permission-aware rehydration at view time: CFO sees the real customer name; board member sees "Top Customer" — same narrative, appropriately disclosed
 - Four privacy modes: standard finance, generalized semantic labels, high-privacy (abstract CAT### identifiers), and local-only (no external call at all)
-- Pure Python 3.10+ standard library — zero pip dependencies; Docker support included; 71 passing tests including a release-blocking privacy regression test
+- Pure Python 3.10+ standard library — zero pip dependencies; Docker support included; 72 passing tests including a release-blocking privacy regression test
 - **Proves:** practical AI governance for finance — confidentiality judgment, permission-aware disclosure, deterministic controls, and security architecture that finance and executive teams can understand
+- **💻 Source code (public, MIT):** [eddiepastore/finance-privacy-gateway](https://github.com/eddiepastore/finance-privacy-gateway)
 
 <p>
   <img src="assets/finance-privacy-gateway-overview.png" alt="Finance Privacy Gateway — Dashboard overview" width="49%" />
@@ -142,4 +144,4 @@ Most AI-native builders lack operating judgment. Most senior executives lack pra
 - 📧 eddie.lab.ai [at] gmail [dot] com
 - 🗂 Full case studies: [`case-studies/`](case-studies/)
 
-*Source code for the projects above is kept in private repositories by design (the healthcare platform touches regulated pricing data; see each case study for what is and isn't public). Demos, walkthroughs, and code samples are available on request.*
+*The FP&A Copilot and Finance Privacy Gateway repositories are **public** (MIT-licensed, synthetic data only) — read the code. The remaining projects are kept in private repositories by design (the healthcare platform touches regulated pricing data; the family apps hold real family data); demos, walkthroughs, and code samples for those are available on request.*
