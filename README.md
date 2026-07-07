@@ -76,7 +76,7 @@ CFOs want frontier LLMs for variance analysis, forecast pressure-testing, and bo
 - **Privacy guarantee enforced, not promised** — the packet risk gate and the privacy regression tests share the same leak-scanner code; runtime and testing cannot drift apart
 - Permission-aware rehydration at view time: CFO sees the real customer name; board member sees "Top Customer" — same narrative, appropriately disclosed
 - Four privacy modes: standard finance, generalized semantic labels, high-privacy (abstract CAT### identifiers), and local-only (no external call at all)
-- Pure Python 3.10+ standard library — zero pip dependencies; Docker support included; 72 passing tests including a release-blocking privacy regression test
+- Pure Python 3.10+ standard library — zero pip dependencies; Docker support included; 82 passing tests including a release-blocking privacy regression test — the real-LLM path is verified end-to-end against a live model
 - **Proves:** practical AI governance for finance — confidentiality judgment, permission-aware disclosure, deterministic controls, and security architecture that finance and executive teams can understand
 - **💻 Source code (public, MIT):** [eddiepastore/finance-privacy-gateway](https://github.com/eddiepastore/finance-privacy-gateway)
 
